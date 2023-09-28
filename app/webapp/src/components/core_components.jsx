@@ -68,6 +68,8 @@ function SimpleFrontend({ taskData, isOnboarding, onSubmit, onError }) {
         onSubmit(data);
       }}>Button</button>
       Click this button to submit sample data.
+      Hello Ryan this is mephisto. I'm running right now.
+      You can start working. This is test. okay 
     </div>
   );
 }

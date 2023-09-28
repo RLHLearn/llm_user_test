@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   mephisto-service:
-    container_name: ${PROJECT_NAME}-service
+    container_name: llm-user-test-service
     build:
       context: .
       dockerfile: Dockerfile.dev
